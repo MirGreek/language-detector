@@ -14,9 +14,11 @@ public class Sample {
 
         System.out.println("Írj be egy összetett mondatot, és megmondom, hogy angolul vagy magyarul van :)");
         Scanner scanner = new Scanner(System.in);
-        String sentence = scanner.next();
+        String sentence = scanner.nextLine();
+        String clearedInput = clearText(sentence);
+        List<String> inputNGrams = createNGrams(clearedInput);
 
-
+        System.out.println(inputNGrams);
 
         String hungarianText = readTextFromFile(hungarian);
         String engList = readTextFromFile(english);
@@ -28,8 +30,9 @@ public class Sample {
         List<String> mostCommonNGramsHun = getMostCommonNGrams(hungarianNGrams);
         List<String> mostCommonNGramsEng = getMostCommonNGrams(englishNGrams);
 
-
+        compareInputWithNGrams(inputNGrams,mostCommonNGramsHun, mostCommonNGramsEng);
     }
+
     public static String readTextFromFile(Path text){
         List<String> textList = new ArrayList<>();
         try {
@@ -46,10 +49,9 @@ public class Sample {
     }
 
     public static String clearText(String inputText) {
-        String clearedString = inputText.trim().replaceAll("\\s{2,}", " ").toLowerCase();
+        String clearedString = inputText.replaceAll("\\s{2,}", " ").toLowerCase();
         clearedString = clearedString.replaceAll("[^A-Za-z öüóőúéáűí]","");
 
-        //System.out.println(clearedString);
         return clearedString;
     }
 
@@ -73,7 +75,7 @@ public class Sample {
             n++;
             b++;
         }
-        System.out.println(nGramList);
+        //System.out.println(nGramList);
         return nGramList;
     }
 
@@ -110,4 +112,27 @@ public class Sample {
         //System.out.println(maxHundred);
         return maxHundred;
     }
+
+    private static void compareInputWithNGrams(List<String> inputNGrams, List<String> hungarian, List<String> english) {
+        int countNGramsHun = 0;
+        int countNGramsEng = 0;
+
+        for (int i = 0; i <inputNGrams.size() ; i++) {
+            for (int j = 0; j <english.size() ; j++) {
+                if (inputNGrams.get(i).equals(hungarian.get(j))) {
+                    countNGramsHun++;
+                } else if (inputNGrams.get(i).equals(english.get(j))) {
+                    countNGramsEng++;
+                }
+            }
+        }
+        if (countNGramsEng < countNGramsHun) {
+            System.out.println("Ez magyarul van");
+        } else if (countNGramsHun < countNGramsEng) {
+            System.out.println("This is in english");
+        } else {
+            System.out.println("Nem tudom eldönteni, I cannot decide");
+        }
+    }
+
 }
