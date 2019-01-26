@@ -49,9 +49,9 @@ public class Sample {
     }
 
     public static String clearText(String inputText) {
-        String clearedString = inputText.replaceAll("\\s{2,}", " ").toLowerCase();
+        String clearedString = inputText.trim().replaceAll("\\s{2,}", " ").toLowerCase();
         clearedString = clearedString.replaceAll("[^A-Za-z öüóőúéáűí]","");
-
+        clearedString = clearedString.replaceAll("[\\n]","");
         return clearedString;
     }
 
@@ -96,7 +96,7 @@ public class Sample {
         Collections.sort(numberDB);
         List<Integer> theHundredBiggest = new ArrayList<>();
 
-        for (int i = numberDB.size()-20; i <numberDB.size() ; i++) { //100
+        for (int i = numberDB.size()-100; i <numberDB.size() ; i++) {
             theHundredBiggest.add(numberDB.get(i));
         }
         //System.out.println(map);
@@ -118,7 +118,7 @@ public class Sample {
         int countNGramsEng = 0;
 
         for (int i = 0; i <inputNGrams.size() ; i++) {
-            for (int j = 0; j <english.size() ; j++) {
+            for (int j = 0; j <hungarian.size() ; j++) {
                 if (inputNGrams.get(i).equals(hungarian.get(j))) {
                     countNGramsHun++;
                 } else if (inputNGrams.get(i).equals(english.get(j))) {

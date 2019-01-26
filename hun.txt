@@ -1,15 +1,339 @@
-Szia!   Mikor jössz haza? Mert ha megmondod, akkor kimegyek eléd 10 perc alatt a buszmegállóba.
-Vehetnénk valamit a boltban.
-„Öregek vagyunk, betegek, na mindegy. Szóval még így is, minden keserűségével együtt,
- én mindig figyelmeztetem magam arra, hogy mégis csoda történt velünk!
- Mert pontosan mi vagyunk az a fajta író, akit bedobnak a meszesgödörbe, és úgy hal meg,
- hogy senki sem hall róla többé semmit. És, ha nagy szerencséje van,
- akkor húsz vagy ötven év múlva kiderül, hogy az asztalfiókjában vannak még művek.
- De hát nem szokták megérni a rehabilitációt, ezt az egész világirodalom bizonyítja,
-mert hasonló történetek azért vannak, mi pedig végül mégiscsak megértük. Ez is valami!”
-A lézeres szemműtét első lépése egy nagyon alapos, részletes alkalmassági vizsgálat.
- Legyünk pontosak: van egy „nulladik kör” is, ami egy telefonos beszélgetés.
- Megkérdezik, hány dioptriás a szem, visel-e kontaktlencsét a páciens, milyen betegségek, sérülések,
-  szemészeti kezelések fordultak elő eddig. Ez azért fontos,
- mert egyes egészségügyi problémák – pl. cukorbetegség,
- vagy autoimmun betegségek – esetén a lézeres szemműtét nem végezhető el.
+Hiába tűnik a cím érthetetlennek, pontosan erre az eredményre jutottak a patinás University College London (UCL) kutatói. A házas emberek szorítása erősebb, mint az egyedülállóké. Mindez a gazdagsággal függhet össze, de mégsem ilyen világos a kép.
+A különbség a házas nőkre és férfiakra is igaz. Sőt, a házas férfiak annál erősebben szorítanak, minél több feleségük volt a múltban. Az eredmény nem teljesen meglepő, hiszen illeszkedik azon kutatások sorába, amelyek a házasok jobb egészségügyi állapotát mutatták ki a szinglikhez viszonyítva. A nős, illetve férjezett emberek általában fizikailag és pszichikailag is fittebbek egyedülálló társaikhoz képest.
+Ennek oka talán az, hogy a hosszú távú partner hathatós pénzügyi és gyakorlati támogatást képes nyújtani ahhoz, hogy a házastársa egészségesebb életet éljen. A házaspárok egyénre vonatkoztatott jövedelme általában magasabb, mint az egyedülállók bevételei, és az is tudott, hogy A GAZDAGABB EMBEREK AZ ESETEK TÖBBSÉGÉBEN EGÉSZSÉGESEBBEK IS.
+Arról azonban keveset tudunk, hogy a házasság milyen hatást gyakorol a fizikai képességekre, különösen öregkorban. Ezt orvosolandó Natasha Wood és munkatársai, az UCL kutatói a szorítás erősségét (mint az általános erőnléti állapot mércéjét) és a házasság kapcsolatát vizsgálták. A kutatáshoz brit és amerikai hosszú távú öregedési vizsgálatok adatait vették alapul. E felmérések 50 év feletti emberek kórtörténetét és fizikai, pszichikai jellemzőik változását követik nyomon (és az adatbázis tartalmazza a résztvevők családi állapotát is).
+Miután a korra és a nemzetiségre is kontrollálták az adatokat, kijött, hogy a nőtlen férfiak és a férjezetlen nők gyengébben képesek szorítani a kezükkel. Amikor azonban statisztikai módszerekkel a vagyoni helyzet hatását is kivonták az egyenletből, a különbség jó részt eltűnt. Ez arra utal, hogy a házasság itt is a jobb életszínvonal révén növeli az emberek izomerejét.
+
+Ott volt azonban egy másik eredmény, amelyet nem lehetett megmagyarázni pusztán a pénzzel. Vajon miért szorítanak keményebben az elvált, majd újranősült férfiak? Az ő markuk ugyanis függetlenül vagyoni helyzetüktől erősebb, mint az egyszer házasodott társaiké. Hogy ez miért van, arról igazából fogalmuk sincs a kutatóknak. Mivel azonban a nők szívesebben választják az erős férfiakat házastársukul, arról spekulálnak, hogy talán a legerősebb férfiakat többször is kiválasztják a nők, tehát újraházasodhatnak.
+
+A kutatók emellett azt is kimutatták, hogy a házasok gyorsabban sétálnak, mint az egyedülállók, de ez már egy másik történet.
+
+Ma Magyarországon egy nő átlagosan 79 évig él. Egy férfi 72 évig. Ez nagyjából 10% különbség. A jelenség a statisztikák szerint a világ minden országában megfigyelhető kisebb-nagyobb mértékben. A nők Oroszországban és pár volt szovjet tagállamban élik túl legjobban a férfiakat (éppen ott, ahol a férfiak körében az alkoholizmus a legsúlyosabb méreteket ölti), a legkisebb különbség pedig olyan országokban érzékelhető, mint Mali, Burkina Faso vagy Sierra Leone, ahol a nők egyenjogúsága nem nagyon létezik, így az orvosi ellátásuk és higéniás körülményeik is csapnivalóak.
+A különbség mindig is megvolt, amióta ilyesfajta statisztikák léteznek, Svédországban például, ahol elég megbízható adatok vannak bő 200 évre visszamenőleg, 1800-ban 33 év volt egy nő, és 31 év egy férfi várható élettartama; ma 84, illetve 80 év.
+Első ránézésre elég könnyű meglátni az okokat a dolog mögött: a háborúk, az ipari korszak brutális munkakörülményei mind azzal jártak, hogy a férfiak korábban haltak meg, és úgy általában, a férfiak egészségtelenebbül élnek, jellemzőbb náluk az elhízás, az alkoholfogyasztás és a dohányzás.
+
+A kutatások szerint azonban ha ezeket a körülményeket mind kiszűrjük, akkor is megmarad pár százaléknyi előny a nők javára a várható élettartamban. Ennek legjobb illusztrációja, hogy legközelebbi rokonainknál, a csimpánzoknál, orángutánoknál, gorilláknál és gibbonoknál is megfigyelhető a jelenség, és náluk igazán nem lehet arra fogni, hogy sokat cigiznének a hímek.
+
+ÚGY NÉZ KI, A NŐKNEK VALAMI ALAPVETŐ BIOLÓGIAI ELŐNYÜK VAN, A SZERVEZETÜK EGYSZERŰEN JOBB KONSTRUKCIÓ MINT A FÉRFIAKÉ, ÉS TOVÁBB BÍRJA AZ ÉLETTEL JÁRÓ STRAPÁT.
+A téma kutatóinak több elméletük is van a jelenség megmagyarázására, a valódi ok valószínűleg ezeknek az összeadódó hatása lehet.
+Az első teória, hogy a nőknek ugye két X kromoszómájuk van (szemben a férfiakkal, akiknek egy X és egy Y), vagyis minden génjükből van egy “tartalék”, emiatt pedig ellenállóbbak különféle betegségekkel, rendellenességekkel, mutációkkal szemben. Érdekes felvetés  az úgynevezett “kocogó szív hipotézis” is, ami azt takarja, hogy a nők szívverése a menstruációs ciklus második felében felgyorsul, és nyugalmi állapotban is majdnem olyan pulzusuk van, mint könnyed kocogás közben. Az pedig közismert, hogy a testmozgásnak és az edzésnek milyen egészségmegőrző hatása van.
+A leginkább elfogadott elmélet a fő nemi hormonokat, vagyis az ösztrogént és a tesztoszteront nevezi meg felelősként. Erre utal az a kutatás is, ami a 18. századi koreai császári udvar eunuchjainak és férfi szolgáinak élettartamát vizsgálta, és arra jutott, hogy akiket még a pubertáskor előtt kasztráltak, átlagosan 20 évvel élték túl azokat, akiket csak később, vagy egyáltalán nem.
+A tesztoszteron, ami a férfias külsőért, mély hangért, erős testszőrzetért és hasonlókért felel, rövid távon megerősíti a szervezetet, de hosszú távon, vagyis idős korban növeli a keringési betegségek, a magas vérnyomás, az érszűkület és egyes ráktípusok kockázatát. Ennek evolúciós szempontból van is értelme: a férfiak nemzőképes korban úsznak a tesztoszteronban, ami erőssé teszi őket, de ezért cserébe idős korban, amikor a fajfenntartás szempontjából már nincs szükség rájuk, legyengülnek.
+A menstruációs ciklust szabályozó ösztrogén ezzel szemben antioxidáns hatású, ami kissé leegyszerűsítve annyit tesz, hogy képes megkötni a káros anyagokat, és nem hagyja, hogy azok kárt okozzanak a sejtekben. Bár a közhiedelemmel ellentétben a női szervezetben is van tesztoszteron, és a férfiakban is ösztrogén, ezeknek a szintje jóval alacsonyabb, mint fordítva - és a járulékos élettani hatásaik miatt a ezek a hormonok a férfiak egészségét rontják, a nőkét viszont javítják hosszú távon.
+Mennyi ideig tart? Tényleg fájdalommentes? Mennyire fogunk élesen látni a műtét után? Kolléganőnk úgy döntött, rászánja magát egy lézeres szemműtétre, mi pedig elkísértük őt a Margitszigetre – alkalmassági vizsgálatoktól a műtéten át a kontrollvizsgálatokig.
+Ildus 15 éve rövidlátó. Mínusz három dioptriával éli a mindennapjait, vagyis szemüveg, illetve kontaktlencse nélkül elég rosszul lát távolra. A kontaktlencse-használattal már középiskolában megbarátkozott – előfordult, hogy az egyik nap kék, a másik nap zöld színűvel ment iskolába, mesélte. A szemüveg viseléssel sincs elvi baja, mivel egy jó keret „öltöztet”, mégis, a mostani kontaktlencsés-szemüveges létnél valami sokkal kényelmesebbre vágyott. Ezért döntött úgy, hogy rászánja magát egy lézeres szemműtétre.
+
+Amikor eldől, hogy lehet-e műteni egyáltalán
+A lézeres szemműtét első lépése egy nagyon alapos, részletes alkalmassági vizsgálat. Legyünk pontosak: van egy „nulladik kör” is, ami egy telefonos beszélgetés. Megkérdezik, hány dioptriás a szem, visel-e kontaktlencsét a páciens, milyen betegségek, sérülések, szemészeti kezelések fordultak elő eddig. Ez azért fontos, mert egyes egészségügyi problémák – pl. cukorbetegség, vagy autoimmun betegségek – esetén a lézeres szemműtét nem végezhető el.
+
+Elkísértük Ildust a vizsgálatra, és persze szemüveges sztorikat meséltünk a taxiban, a szemklinika felé. Kinek milyen volt az első szemüvege, milyen helyeken hagytuk ott, mennyit kerestük hunyorogva a lakásban. A taxis is bekapcsolódott: „Szemvizsgálatra mennek? Én is itt a Margitszigeten műttettem meg a szemem. Nem kell izgulni, tök jó lesz”.
+
+Időpontra érkezünk, nagyon rövid várakozás után felveszik az adatokat, és nemsokára már sci-fibe illő gépekkel vizsgálják Ildus látását. Az asszisztensek mindig pontosan elmondják, mi történik és miért, így megtudjuk, hogy a szem állapotát egy úgynevezett hullámfront mérő berendezéssel (aberrométerrel), majd egy szaruhártya feltérképező rendszerrel (topográffal) vizsgálják meg, pontosabban a szaruhártya görbületéről, domborúságáról és vastagságáról készítenek térképeket, és megvizsgálják a szaruhártya fénytörési hibáit, rugalmasságát és biomechanikáját.
+
+Szemnyomásmérést is végeznek - ha felmerül a magas szemnyomással járó zöldhályog gyanúja, akkor sajnos nem alkalmas a páciens a műtétre. Ezek fájdalommentes vizsgálatok, a legnagyobb kellemetlenséget az okozza, hogy néha vissza kell tartani a pislogást.
+
+Szakorvosi konzultáció következik, a doktornő további vizsgálatokat végez, hogy kiderítse, van-e orvosi ellenjavallata a lézeres szemműtét elvégzésének. Tanulmányozza az eredményeket, és eldönti, alkalmas-e a szem a lézeres műtétre, megfelelően fog-e viselkedni a műtét után, és azt is meghatározza, milyen korrekcióra lesz szükség. Ildus ezután pupillatágító szemcseppet kap, ami eleinte egy kicsit csíp. Erre azért van szükség, mert így lehet „kikapcsolni” a szem alkalmazkodóképességét, így kapunk valós értéket a dioptriákról. Közben sokat nevetünk, lassan, de biztosan oldódik a reggeli izgalom. Arra, hogy ez egy csúcstechnológiás orvosi vizsgálat, csak a fehér köpeny és a műszerek emlékeztetnek.
+
+A KB. KÉTÓRÁS PROGRAM VÉGÉN MEGKAPJUK A MEGNYUGTATÓ EREDMÉNYT: ILDUS ALKALMAS A LÉZERES SZEMMŰTÉTRE, ÉS A MÉRÉSEK ALAPJÁN TÖBBFÉLE BEAVATKOZÁS KÖZÜL IS VÁLASZTHAT.
+
+A Focus Medical legmodernebb, VISUMAX nevű kezelését szeretné - azt egyébként, hogy mik az opciók, mindig a szaruhártya állapota, felszíne és vastagsága, illetve más elváltozások megléte dönti el. A rövidlátók szemfenekén lehetnek olyan elváltozások, amelyek miatt bizonyos típusú kezeléseket nem lehet elvégezni.
+
+„Mire felfogtam, hogy mi történik, már készen is volt”
+A lézeres szemműtétre nem kell különösebben készülni, de annyit érdemes megemlíteni, hogy előtte napokig nem szabad kontaktlencsét használni, és kerülni kell az alkoholfogyasztást. Smink nélkül, lazább öltözékben érdemes érkezni, természetesen időben. Ildust a kijelölt időpontban szólítják, a regisztráció és az utolsó, ellenőrző vizsgálatok fél óra alatt megvannak. A szemész szakorvos még egyszer ellenőrzi a kezelési tervet és a műtétet megelőző vizsgálaton meghatározott fénytörési hiba korrekcióját.
+
+Ildus egy kis plüssmalacot kap, amit a beavatkozás során szorongathat. A szemüveget kint hagyja, emiatt kicsit bizonytalanul mozog, de bízik benne, hogy soha többé nem lesz rá szükség. Az asszisztensnő a műtő előkészítő helyiségébe kíséri, ahol a szem környékét fertőtlenítik, és szemcseppel érzéstelenítik a szemet.
+
+„Akkor féltem először, amikor a műtőbe kísértek, talán akkor esett le, hogy mire is vállalkoztam. De Kerekes doktornő mestere annak, hogy oldja a hangulatot” - meséli Ildus, aki kicsit meglepődött, hogy három ember is bent volt – ahogy utólag megtudtuk, a kezelést végző orvoson és a műtős asszisztensnőn kívül egy klinikai mérnök is jelen van, aki felügyeli a lézerberendezés működését a műtét során.
+
+Ahogy korábbi cikkünkben már megírtuk, a VISUMAX kezelés két szakaszból áll. Az első lépésben a femtoszekundumos lézerberendezés egy ultra vékony, 110 mikronos lebenyt hoz létre a szaruhártya felső rétegéből. Ezután ezt felhajtják, és az úgynevezett excimer lézer elvégzi a szükséges korrekciót.
+
+„Először egy fehér fényt kellett nézni, olyan volt, mintha valami belement volna a szemembe. 16 másodperc volt az egész, sokat segített, hogy a doktornő visszafelé számolt. Majd egy másik gép vette kezelésbe a szememet. Zöld fényt kellett nézni, ami egy kissé égető, de nem fájdalmas érzés volt. Ez szemenként csak 4 másodpercig tartott, mire felfogtam, hogy mi történik, már készen is volt. A plüssmalacot közben többször is megfojtottam”.
+
+Ildus egyáltalán nem érzett fájdalmat a műtét közben, és utána sem.
+
+„Először minden homályos volt, könnyezni kezdtem, aztán kitisztult a látásom. Hazamentem, kipihentem magam, és amikor felkeltem, olyan élesen láttam, mint még soha életemben. Döbbenetes volt” - mondja.
+
+Az eredmény: 150 százalék
+Az első kontrollra a műtét másnapján, a másodikra a műtét után egy héttel kerül sor. „A megmaradt kontaktlencséimet a kolléganőmnek adtam” - meséli Ildus a második kontroll előtt. Napszemüveget visel amikor találkozunk, és nemcsak a vakító hó miatt. A műtétet követően a szemet védeni kell az UV sugárzástól egy 100%-osan UV szűrős napszemüveggel, a VISUMAX kezelés után 1-2 hónapig.
+
+A kontroll során nagyjából ugyanazokat a vizsgálatokat végzik el, mint a lézeres szemműtét előtt: megmérik a szem fénytörését és ellenőrzik a szemnyomást. Térképet készítenek a szemfelszín állapotáról, hogy össze tudják hasonlítani a műtét előtti és a műtét utáni állapotot. A réslámpás vizsgálat során ellenőrzik a szem elülső felszínét és a lebeny helyzetét.
+
+Ezután a látásélességet vizsgálják meg, ami Ildusnál az egyik szemén közel 150, a másikon 125 százalékos lett. (Ez úgy lehetséges, hogy a szaruhártyánk felszíne eredetileg egyenetlen, és ennek megfelelően a dioptriák eltérnek a felszínén. A legmodernebb lézeres kezelések elpárologtatják ezeket az egyenetlenségeket, így a kezelés után jobban is láthatunk, mint ami természetesen lehetséges.)
+
+A látásjavulás már azonnal tapasztalható, de hetek kellenek ahhoz, hogy beálljon a látás élessége, magyarázza az ellenőrzést végző Kerekes Júlia doktornő. Így nem kell meglepődni azon, hogy a kontrollvizsgálatok során kapott értékek eleinte eltérnek egymástól.
+
+Mivel minden a lehető legnagyobb rendben, a doktornő még beállítja a szemcsepp és a műkönny adagolását. Ildusra még négy ellenőrzés vár: a műtét után egy, két és hat hónappal, majd egy évvel – a kontroll vizsgálatokon természetesen felteheti majd az esetlegesen felmerülő kérdéseit is.
+
+Ildus mosolyogva távozik az „egyhetes” kontrollról. Nemcsak nekünk tűnik fel, hogy sokkal magabiztosabb és határozottabb. Olyan érzésünk van, mintha egy másik nő sétálna most ki innen – és nemcsak azért, mert már az utca túloldaláról kiszúrt minket, amikor találkoztunk a klinika előtt. Úgy tűnik, hogy az éles látásnak lelki hozadéka is van.
+
+Egészen új perspektívákat nyithat meg a földönkívüli élet kutatásában egy új tanulmány, ami szerint a földi élet úgy alakulhatott ki évmilliárdokkal ezelőtt, hogy egy bolygó a Földbe csapódott – írja az Independent.
+
+A tanulmány a nagy becsapódási hipotézist vette alapul, amelynek lényege, hogy a Hold úgy jött létre 4,4 milliárd évvel ezelőtt, hogy egy Mars méretű bolygó óriási erővel csapódott bele a Földbe, az ütközés során keletkező törmelék pedig külön égitestté állt össze.
+
+Jelenleg ez az elmélet az elfogadottabb az asztrofizikusok körében a Hold keletkezését tekintve, a mostani tanulmány ugyanakkor emellett az élet keletkezését is a becsapódás számlájára írja. Mint kiderült, a laboratóriumi kísérletek és számítógépes szimulációk egyaránt alátámasztják, hogy az élet keletkezéséhez szükséges illékony anyagok nagy része az ütközés során került a bolygónkra.
+
+A kutatás szerint a "donor" egy kezdetleges bolygó volt, kénben gazdag maggal, a Földre pedig ennek a bolygónak a törmelékéből jutott el a legtöbb szén és nitrogén, ami a legtöbb élőlényben, köztük az emberben is a mai napig megtalálható.
+
+A primitív meteoritok tanulmányozásából már rég tudni lehetett, hogy a Föld, illetve a többi, a Naprendszer belső felén elhelyezkedő kőzetbolygó híján van az illékony anyagoknak. Az, hogy ezek mikor, és hogyan jutottak el a Földre, jelenleg is vita tárgyát képezi, de a mi modellünk az első olyan, ami képes megmagyarázni a kérdés mindkét felét úgy, hogy közben nem mond ellent a létező geokémiai bizonyítékoknak.
+
+– mondta a kutatást vezető Rajdeep Dasgupta, hozzátéve, hogy a tanulmányuk segíthet az emberiségnek megérteni azt, hogy miként alakulhat ki az élet a miénkhez hasonló kőzetbolygókon.
+
+Dasgupta azt is megjegyezte, hogy a kutatásuk fő tanulsága az, hogy a jelek szerint egy Föld-típusú bolygónak nagyobb esélye van arra, hogy élet alakuljon ki rajta, ha összeütközik egy olyan bolygóval, ami másként fejlődött, és talán a protoplanetáris korongnak is másik részéről származik.
+
+Nemes Nagy Ágnes most nem versekben vagy esszékben, hanem interjúkban és beszélgetésekben vall erről a Jelenkor Kiadónál megjelenő életműsorozat második darabjában, A gyufaskatulyától Prométheuszig című könyvben.
+„Írta Nemes Nagy Ágnes” – legtöbbünknek ez az emlék maradt meg róla az óvodából. De életműve sokkal összetettebb az ötvenes években kényszerűségből született gyermekverseknél. Nemes Nagy Ágnes magát költőnek, esszéistának, tanárnak, gyermekeknek író és fiatalokkal sokat foglalkozó embernek tartotta. „Azt kérdezed, ki vagyok? Mindenesetre 20. századi vagyok. […] Olyan szeretnék lenni, mint a narancs, amely tudvalevőleg a legkeserűbb gyümölcs, de úgy a legkeserűbb, hogy a legtöbb édesítőanyag van benne”– mondta a nyolcvanas években.
+
+Költői és esszéírói életművét egészíti ki az a félszáznál is több interjú, amit 1966 és 1990 között adott. Ezekben irodalomtörténészekkel, újságírókkal beszéli ki a verseibe és tanulmányaiba sűrített gondolatokat, és kifejezetten szórakoztató, ahogy időnként helyre teszi a kérdezőket. A hagyatékában fennmaradt feljegyzéseiből tudható, hogy fontosnak tartotta ezt a műfajt, az interjúkra alaposan felkészült – sokszor már a kérdéseket is megtervezte –, a kész szövegeket ellenőrizte, és a legfontosabbnak tartott beszélgetéseket önálló ciklusként publikálta, másokat esszéként vett fel köteteibe.
+
+Egy budai úrilány belép a történelembe
+„A büszke tehén a réten állt, csak állt”– írta és szavalta a Budapesten, első világháborús erdélyi menekültek gyerekeként született, de a versélményt vidéki rokonoknál gyűjtő négyéves Nemes Nagy Ágnes. „Megtalálható benne az a két tendencia, amely későbbi költői életemet határozottan jellemezte. Az egyik a konkrétumhoz tapadás, a másik pedig az elvontsághoz húzó hajlam. A tehén, amint ott áll a réten, maga a látvány, maga a tapasztalat. […] De ott van benne egy jelző, egy bizonyos jelző: a »büszke«, amely viszont a tehenet bizonyos mértékig eltávolítja; elidegeníti” – elemzi hatvan évvel később önmagát.
+
+Céllövöldével, meg cirkusszal, a környéken pedig mindenhol helyben termett barackot árultak. De hogy került Gárdonyi szobra a Gárdonyi térre?
+
+Szülőföldje Buda, a mai Bartók Béla út. Ott járt elemi iskolába, végigjátszotta, végigsétálta a Gellérthegyet, a Műegyetem előtti Duna-partot, fürdött a lágymányosi kiöntésben, a Hadik ablakában megbámulta Karinthy Frigyest.
+
+Innen járt a legendás református leánylíceumba, a Baár-Madasba. Akkoriban Áprily Lajos volt az igazgató, a Nyugat pedig úttörő módon tananyag. „Túlságosan jó világ volt ez, amely sajnos azt indukálta bennem és sokakban, hogy tulajdonképpen ez a világ kicsinyített mása. De nem az volt. Nem az volt. Szó sem volt róla. Soha többé nem volt Baár-Madas az életemben.”
+
+Az irodalomtörténetbe dús hajkoronával és magas sarkúban sétált be Szerb Antal oldalán.  Tizennyolc éves volt, amikor Áprily személyes és Babits verseken keresztüli hatása után belépett az életébe a magyar irodalom „legkisebb képű írója”, a „könyvtárba született szemüveges csecsemő”. A nagy irodalmi barátság versküldéssel kezdődött, és legfőképpen sétákból állt. „Szerb Antal nagyon szeretett sétálni, gyalogolni, én sokkal kevésbé. […] Hát én gyönyörűen akartam felöltözni, és fölhúztam ezeket a magas sarkú cipőket, amikben aztán majdnem letört a lábam. Szerb Antal a maga irodalmi tanulságai között azt is tartalmazta számomra, hogy a hiúságot, a földi hiúságot meg kell vetni. És nem lehet magas sarkú cipőben irodalmi sétákat folytatni.”
+
+Közben magyar–latin–művészettörténet szakra járt az egyetemen, és 1942-ben megismerkedett az ellenzéki mozgalmakkal kapcsolatot tartó jogász Lengyel Balázzsal. 1944-ben diplomázott, férjhez ment Lengyelhez, és hirtelen rengeteg (többnyire megmentésre váró) íróbarátja lett. Egyszerre köszönhette a férjének és a második világháborúnak, hogy „egy védett úrilányéletből [átlépett] a szélsőséges történelembe, és egy rejtett kriptoirodalmi érdeklődésből az irodalmi életbe”.
+
+1944 nyarán elkísérte a 103-as nagyfeszültségű drótakadályszakasz helyettes parancsnokának kinevezett Lengyel Balázst a Muraközbe. A félbemaradt Mihályfalvi kaland című költeményben írta le azt a különös hangulatú nyarat, a kihelyezett kis katonai szakasz életét. Lengyel azonban hamarosan már katonaszökevényként bujkált Budapesten, és egy Margit körúti lakásban gyártották a hamis, életmentő papírokat. Ide várták Szerb Antalt is, akit végül nem sikerült kimenteni a munkaszolgálatból.
+
+Gyerekkor egy rég eltűnt világban: a hagyatékból kiadott szövegekben életre kel a háború előtti Erdély, ahogyan egy kislány látta.
+
+A háború utáni évekre szinte ugyanazokkal a szavakkal emlékszik, mint a kor- és írótárs, barátnő Szabó Magda és Polcz Alaine. „Persze hogy csodálatos volt. Az a három év volt talán a legszebb a mi írói életünkben, és az enyémben is biztosan. Annak ellenére, hogy mi minden volt rom körülöttünk, meg kétségbeesés, meg éhezés, mégis azt gondoltuk, hogy most valami nagyszerű jön. […] Valósággal sistergett bennünk a jókedv, nyerítettünk az örömtől. Furcsa ezt megérteni, de nagyon jellemző; minden háború után így van. A túlélőknek az öröme és reménye, eufóriás hőemelkedése ez.”
+
+Az egész irodalmi élet össze- és mindenhová járt: a Partizán Szövetségbe, a népi kollégiumokba, egyetemi stílusgyakorlatokra, irodalmi előadásokra, és mutogatták egymásnak műveiket: „soha életemben annyi őszinte és goromba kritikát nem kaptam és nem szolgáltattam, mint akkor.”
+
+Olvasta az Ókútat és a Für Elise-t, szerette a Régimódi történetet? Szabó Magda most megjelent fotóalbumában a szereplők szemébe nézhet, és megismerheti az írónő privát arcát.
+
+Nagyjából ugyanarról és ugyanúgy írtak, legfontosabb fórumuk 1946-tól a Babits és a Nyugat eszmeiségét folytató, tíz dollárból alapított Újhold című folyóirat lett. Nemes Nagy Ágnesnek ugyanebben az évben megjelent első verseskötete, a Kettős világban. 1948-ban még megkaphatta a Baumgarten-díjat (Szabó Magdától visszavették), de a Pilinszky, Mándy, Somlyó, Karinthy írásait közlő Újhold betiltása már radikális irányváltást jelzett.
+
+„A betiltás és elnémíttatás kérdése nem volt egyszerű. Itt is kettőn állt a vásár. Minket nem azért némítottak el, mert fasiszták voltunk. És nem azért, mert nem akartak tőlünk semmit. Ellenkezőleg. Folyt a mi megnyerésünknek a folyamata. […] Erősen be akartak minket vonni mint fiatalokat az átrendezendő magyar irodalomba. Itt pusztán arról volt szó, hogy ki állt kötélnek, és ki nem. Mi kezdetben természetesen arra gondoltunk, hogy beletartozunk ebbe az irodalomba. Ahogy azonban a követelmények a mi szemünkben egyre inkább abszurddá váltak, annál inkább visszahúzódtunk. Tehát minket nem nem akartak, hanem mi sem akartunk, ilyen körülmények között. Nem kívántuk azokat a szerintünk nagyon helytelen kulturális és irodalmi követelményeket betölteni, amelyeket tőlünk elvártak. Kiiktattak tehát minket, leírtak. Nem az volt a nehéz: karriert csinálni, a főírók sorába kerülni egy pillanat alatt, ez igazán nem volt probléma. Az volt a nehéz: nem csinálni karriert, lefogni természetes ambíciónkat, odadobni alig megkezdett írói pályánkat” – emlékezett vissza később. „Ilyesféle dolgok történtek velünk: éjszaka 12-kor szól a csengő. Rémülten megyünk az ajtóhoz, ki az, mi az? A postás. Az hozott egy táviratot, amelynek szövege: Rákosi-ódádat három nap múlva várjuk. Írószövetség.” Akik megírták, az „ódások”, pár évre bevonulhattak a kommunista irodalmi panteonba.
+
+Az olaszországi ösztöndíjból szinte a vasfüggöny leeresztése előtti pillanatokban visszatérő Nemes Nagy Ágnes és Lengyel Balázs „megszűnt irodalmi személy lenni”: a férj mintegy 14 évig volt állás nélkül, a feleség dolgozott a Köznevelés című pedagógiai lapnál, és tanított a Petőfi Gimnáziumban. Nemes Nagynak megengedték, hogy francia klasszicista lírát vagy éppen Brechtet fordítson, de az ötvenes években sokan voltak, akik műfordítást sem kaphattak. Ezért a szerencsések néha „négerekkel” dolgoztattak, és téphették a hajukat, ha pocsékul fordítottak a nevükben. Első gyerekversei is kényszerből születtek: leporellót írhatott a fogmosásról, aztán rájött, hogy ez is műfaj, ahol „lehet valamit csinálni”.
+
+Megfordult a szél
+A nagy kísértések és a nagy veszélyek között, az ötvenes évek reménytelen alagútkorszakában Nemes Nagyék Kékgolyó utcai lakásán sokszor vendégeskedett az egykori Újhold-gárda és más számkivetettek: Mándy, Mészöly Miklós és Polcz Alaine, Szabó Magda és Szobotka, Ottlikék. És játszottak, ahogy később, az olvadás után Szigligeten.
+
+De addig alig kaptak levegőt. „Hogy mennyire fullasztó volt az 50-es évek légköre, a szó szoros értelmében, arra van egy kis történetem. Ott álldogálok, ahol szoktam, a 6-os peronjának szélén, összepréselve száz más emberrel, és nagyon fúj a szél, majdnem lefúj minket a villamosról. Egyszer csak egy mellettem álló férfi felkiált: Vegye le az arcomról a haját! Tudniillik akkor én még hosszú, kibontott hajat hordtam, mint ma is a fiatalok, és a hajamat a szél, ami vadul fújt – Dunáról fújt a szél –, nekidobta a férfi arcának, méghozzá olyan szorosan, hogy valósággal fulladozott alatta. És én nem tudtam a hajamat lekapni az arcáról, mert nem tudtam a kezemet megmozgatni, annyira össze voltunk préselve, sőt ő maga sem tudta lesöpörni ezt a hajat, mert ő is be volt préselve. Ami megmentette – idézőjelben – az életünket, az az volt, hogy megfordult a szél. És az, hogy megfordult a szél, ez nagyon jó volt mindannyiunknak” – mondta a nyolcvanas években.
+
+1957-ben Lengyel Balázst ugyan letartóztatták, de semmilyen politikai tevékenységet nem tudtak rábizonyítani. A börtönből néhány hét után szabadulva nem tért vissza feleségéhez. Elváltak, de sosem szakadtak el egymástól. A kádári olvadás az ő szakmai sorsukban is konszolidációt hozott: Nemes Nagy Ágnes végre „szabad szellemi foglalkozású íróként” dolgozhatott, Lengyel Balázs a Corvina, majd a Móra Kiadóban szerkesztett, és megjelenhettek kritikái is.
+
+Nálunk még az utcát is legszívesebben írókkal söpörtetnék
+Nemes Nagy Ágnes élete hét évtizede alatt akarva-akaratlan, tudatosan vagy kényszerűségből, némán vagy hangosan, de kivette részét az irodalmi utcaseprésből.
+
+„Általában azt gondolom, hogy az, amivel mi, magyarok, dicsekedni szoktunk, hogy márpedig nálunk az író a közélet mezején is mindig elöl jár, olyasféle tény, ami nem okvetlenül büszkeség tárgya. Ez, hogy úgy mondjam, fejlődésünk sebeire és bizonyos elmaradottságára is vall. Épp – meglepő módon – Illyés Gyula mondta azt, hogy nálunk még az utcát is legszívesebben írókkal söpörtetnék. Nem a legjobb munkamegosztás. A politikai szerep fölébe kerekedhetik az írói szerepnek. Meghamisítja ez az értékrendet, eltakarja az írói minőséget. Az írói minőség helyébe a politikai milyenség lép. Veszélyes ez, az irodalomra és a közönségre is, elvégre a politika mindenkit érint, mindenkit jobban érdekel, mint egy szonett. És ha mi ennek alájátszunk, akkor a befogadó közönség amúgy is labilis mércéit tovább borogatjuk.”
+Nemes Nagy életében kétszer volt olyan pillanat, amikor íróként erkölcsi kötelességének érezte, hogy közvetlenül is politizáljon: a fasizmus és a Rákosi-korszak idején. Az elsőben tettekkel, a másikban a hallgatással.  „Azzal, hogy mi negyven évig voltunk víz alatt, azzal politizáltunk!” Ennek is voltak fokozatai: tíz évig asztalfiók és teljes hallgatás, majd ’56 után előléphettek, és már megjelenhettek a könyveik, de a róluk való kritikai hallgatás folytatódott. És amikor lehetett, sokan már nem bírtak többé írni, vagy mint Nemes Nagy Ágnes is – keveset.
+
+És a mi szilenciumunkat ki fizeti meg?
+Lengyel Balázzsal még egyszer összekapcsolta az Újhold: 1986-ban almanach formájában újra indították, 1991-ig 12 kötet jelent meg, és nemzedéktől függetlenül teret adott mindenkinek, aki belefért a minőség, humánum, tolerancia szerkesztési alapelvébe. A feltámadás azonban keserédes volt.
+„Öregek vagyunk, betegek, na mindegy. Szóval még így is, minden keserűségével együtt, én mindig figyelmeztetem magam arra, hogy mégis csoda történt velünk! Mert pontosan mi vagyunk az a fajta író, akit bedobnak a meszesgödörbe, és úgy hal meg, hogy senki sem hall róla többé semmit. És, ha nagy szerencséje van, akkor húsz vagy ötven év múlva kiderül, hogy az asztalfiókjában vannak még művek. De hát nem szokták megérni a rehabilitációt, ezt az egész világirodalom bizonyítja, mert hasonló történetek azért vannak, mi pedig végül mégiscsak megértük. Ez is valami!”
+
+Életművét nem sokkal halála előtt csatatérhez hasonlította, csata után. „Borzasztó keveset hozott létre az ember abból, amit igenis tudott volna, mert volt képessége. De el kell fogadni, ez csata, ez ilyen, az is csoda, hogy ennyire tellett.”
+Ekkor már hosszú árnyékokat vetett a kertben az alkony. Egy feketerigó kiült az öreg
+körtefa száraz ágára, ott dalolgatott, csak úgy magának, a kertnek, talán a fiókáknak is, de
+azokat nem lehetett látni, bár ilyenkor már elhagyták a fészket.
+A méhek járása megritkult, de a zsongás nem hallgatott el, mert a kaptárakban
+fáradhatatlanul folyt a munka, és édes. viaszos lépszag lengett a méhes körül.
+A kert végében álló nyárfák csúcsa lángolni kezdett a búcsúzó nap vörös ragyogásában, de
+a derekuk már szürke volt. és tövük a parti bokrok között a sötétségbe ért.
+Meleg, volt még, de a patak felől hűvös levegő kúszott t föld felett a kertbe, és a
+vízpáráktól egyszerre felemelték fejüket a virágok, és még erősebben illatoztak.
+Gyula szinte harapta ezt a tiszta, nedves levegőt, és bágyadtán gondolt a holnapi napra,
+haza és minden haszontalanságra, de a gondolatokat hagyta elmenni, ahogy jöttek. Nem
+ültette le őket maga mellé, nem kérdezett tőlük semmit, nem foglalkozott velük. Valami
+nyugalmas révedezés volt ez, majdnem álom, ámbár nem volt álmos. Most nem nézett egy
+fára vagy bokorra vagy a méhesre, hanem magában érezte az egész kertet, az egész alkonyodó
+csendet, és ugyanakkor önmagát is benne érezte ebben az illatos magányban. Ha most
+levágnának egy fát, az neki is fájna, és ha valaki el akarná taposni azt a kis cinéért az úton,
+bizonyára megakadályozná. Tutajosunk egy lett az alkonyattal, a kerttel, a csenddel, az egész
+határtalan, lélegző, élő mindenséggel.
+Az előbb egy nagy szarvasbogár zúgott el a feje felett, mint egy kis repülőgép, és Gyula
+nem gondolt most a rovargyűjtő dobozra, ahol még napok múlva is vonaglottak a rosszul
+megölt bogarak. És ostobaságnak tartotta az egész rovargyűjtést. Hát mindenáron meg kell
+ölni, amit meg akar ismerni az ember? Jó, jó: iskolai bemutatásra persze hogy kell gyűjteni, és
+gyűjtsenek azok, akik természetrajztanárok akarnak lenni, akik kutatók akarnak lenni, de a
+többi? Az a döglött hőscincér már nem mond semmit, és nem lehet megtudni tőle, hogy mit
+csinált, amíg élt, hogy élt, hogy szaporodott. Ez megvan a tankönyvben, s akik írták, azok
+életében figyelték meg, s ha megölték, csak azért tették, mert belső szerveit is látni akarták a
+mikroszkóp lencséje alatt. Ez rendben is van, de hogy miért gyűjt, miért öldös egymillió diák,
+haszontalanul beleavatkozva a természet munkájába, ezt Gyula most nem értette és elítélte.
+Azt értette, hogy az embernek tudományos célból joga van pusztítani a kártékony állatot és
+szaporítani a hasznosat a saját hasznára, de az értelmetlen öldöklést most, az alkonynak ebben
+a szelíd órájában bűnös ostobaságnak tartotta.
+Ha Ernyei most itt lenne légpuskájával, egészen biztosan lelőné azt a rigót, és dicsekedve
+mondaná: “eltaláltam a dögöt” és leesett, “mint a rongy”…
+Miért “rongy”, és miért “dög”? A rigó hasznos madár, ingyen dolgozik az embernek,
+tisztítja a kertet a férgektől, nagyobb lesz a gyümölcstermés, s akkor jön Ernyei – akinek
+állandóan izzadságszaga van, és ha Kengyel kiszólítja, reszket a térde –, jön a légpuskával, és
+megöli az ingyen napszámost, az esti dalt, a tollas kis életet.
+Miért?
+Tutajos ebben a pillanatban utálattal gondolt Ernyeire, és ebben nem zavarta az sem, hogy
+a rigó a legjobb egészségnek örvendett ott a száraz ágon, és már századszor fuvolázta el
+ugyanazt a nótát, és az mégis, mintha mindig más lett volna.
+A kerti úton ekkor egy macska osont végig, olyan puhán, mint az árnyék. Meg-megállt,
+figyelt, szaglálódott, aztán felnézett a fára, s meglátta a rigót.
+– Sicc! Azanyád! – ugrott fel Gyula, mire a cirmos helyből másfél métert ugrott, és eltűnt a
+krumpliban.
+“Hülye vagyok – suttogta Gyula –, itt a csúzli a zsebemben, s én óbégatok, ahelyett, hogy
+oldalba lőttem volna.”
+Ez a váratlan mozgás életre rázta álmodozó gondolatait, és elindult lefelé, mert a rezeda és
+rózsák költői illata közé mintha a rántott csirke reális illata vegyült volna.
+Az udvaron csend, a házban csend.
+Gyula még egyszer alaposan körülnézett a fürdőszobában, hogy rend legyen, “mintha
+semmi sem történt volna”, aztán előkészült másnapra. Hátizsákba rakta, amire esetleg
+szüksége lehet, előkészítette a vadonat szandálokat, inget, s hosszan gondolkodott a kabát
+felett.
+Közben bejött Nancsi néni is.
+– Nem tudom, várjunk-e bátyádra. Néha későn jön…
+– Várjunk, Nancsi néni. Azon gondolkodom, vigyek-e kabátot.
+– Tán csak nem akarsz meztelenül menni?
+– Meleg van…
+– És ha eső jön… és ha agyonéget a nap? Kabát nélkül nem mehetsz, mert pecsenyére
+sülsz.
+– Hoztam napolajat!
+– Fityfenét ér az, ha egyszer megkap a nap. Csak lassan-lassan. Aztán, ha lebarnultál, már
+nem kell félni, de a kabátra mindig szükség lehet.
+István bácsi azonban nem volt ilyen aggódó, amikor Matula elmondta, hogy a “gyerek
+szandálban akar gyünni…”
+Ez még délután volt, amikor a főagronómus kocsija megállt egy percre a berekszélen, ahol
+Matula a sásszedőket ellenőrizte.
+– Matula bácsi, nem kell azt gondolni, hogy itt most minden a gyerek körül fordul meg…
+– Ezek – intett Matula a sásszedők felé – maholnap végeznek; a dolgomat meg úgy teszem,
+hogy akár itt van a kis Gyula, akár nincs – mindegy. Arra megyünk, amerre járásom van.
+– Okosan! Ha meg szandálban akar mászkálni, hát hagyja… hadd tanuljon. Ha elüti a
+bokáját: elüti. Nem rózsaszálnak jött ide, hanem hogy erősödjön; engedje csak a maga feje
+után, aztán, ha beleüti valamibe, majd nem tartja még egyszer oda.
+– Értem – mosolygott Matula –, persze, azért vigyázok rá, mert sok minden van, amit nem
+tudhat.
+– Semmit sem tud! Ha magát él vinnék abba a városi iskolába, hát megbukna, a gyereket
+meg ide hoztuk megtanulni ezt az életet, mert nagy kedve van hozzá; a végén majd maga
+mondja meg, hogy jól vizsgázott vagy megbukott.
+– Hát nem mérnök lesz, mint az apja?
+– Ez? Akkor lesz ebből mérnök, amikor belőlem éneklő kanonok, pedig, ugye. ez nem
+valószínű?
+– Nem gondulnám…
+– Szóval magára bízom, Matula bácsi.
+– Értek mindent. Gumicsizmát meg lehet kapni a szövetkezetben…
+Ezek után a főagronómus intett, Matula megbökte a kalapja szélét, s a kocsi elrobogott, de
+már sötét volt, amikor Jancsi néni fülelni kezdett.
+– Jön – mondta.
+– Egy kocsi – hallgatódzott Gyula.
+– Száz kocsi közül is megismerem a mi kocsinkat. Gyula mosolygott, de a kocsi valóban
+befordult az udvarra.
+– Majd megtanulod te is. Minden kocsinak más a zörgése, más a hangja, akár az embernek.
+– Mi a vacsora? – dübörgőit be a vastag férfiú. – M a vacsora, Nancsi néni, mert magát
+eszem meg ezzel a keszeggel együtt.
+Megölelte a Gyula Lajos nevű keszeget, és a szék mind a négy lábával megkapaszkodott a
+padlóban, hogy össze ne rogyjon, amikor István bácsi ráereszkedett.
+– Döglenek a csibék, Nancsi?
+Gyula ijedten nézett a tányérjára, s csak akkor nyugodott meg, amikor az öregasszony
+megmagyarázta, hogy: döglenek persze, ha előbb elvágják a nyakukat, egyébként nem illik a
+vendég étvágyát rontani, hogy a gazdának több jusson.
+– Csülökre, Tutajos! – javasolta István gazda. – Holnapra kell az erő, mert Matulának nagy
+járása van.
+– Elbírom.
+Ezután már szó alig hallatszott, csak a csontok halmozódtak a csontos tányéron, és Nancsi
+boldogan nézte a pusztítást a rántott csirkék eszményi halmában.
+– Az ágyak?
+– Már régen megvetettem, de jobb, ha az ágyban nem szivarozik. A paplan két helyen is ki
+van égetve.
+A szivar említésére Gyula Lajos kissé megborzongott, de mire ágyba kerültek, már
+elfeledte. Itt is kis kuckója volt, mint odahaza, és a szúnyoghálós ablakon mintha szitán
+néztek volna be a csillagok. A fiú gondolatai a holnapi nap lehetőségeit méricskélték, de aztán
+egy kutya kezdett az ablak alatt ugatni, és erre egy másik kutya felelgetett jó messziről.
+“Mondanak ezek egymásnak valamit?” – kérdezte magában Gyula, mert az egyik kutya
+mindig megvárta, amíg a másik befejezte mondanivalóját.
+Később egy bagoly szólalt meg, de ez a kutyákat nem zavarta. Ezek az éjszakai hangok
+nem lármának hatottak, és Gyula hiába gondolta, hogy majd nem tud tőlük aludni. Az ugatás
+mintha egyre távolodott volna, s a kuvik is egyre messzebbről szólt.
+Aztán elhallgatott minden, és a bagoly már csak álmában szólt, mert a kutyák befejezték
+esti diskurálásukat. Később felkelt a hold, és reszkető derengést szitáit a szobába.
+Tutajosunk ekkor már mélyen aludt, és mosolygott álmában. Hogy mit álmodott, az örök
+titok marad, de Hogy nem a szivarról álmodott, erre mérget lehet venni, mert akkor nem
+mosolygott volna.
+Egy perccel később – de lehet, hogy csak fél perc volt – valaki megzörgette az ablakot.
+– Hajnal van – mondta egy reszelős hang –, indulni kell.
+– Matula bácsi?
+– Én hát, mást várt talán?
+– Neem – ásított ifjú barátunk –, de hát hány óra?
+– Négy!
+Gyula úgy érezte, hogy ez lehetetlen. Hét órát aludt, de úgy érezte: nem volt ez hét perc
+sem.
+– Megyek – mondta Gyula, és abban a pillanatban elaludt volna, ha Matula nem folytatja:
+– Két óra, amíg odaérünk, horgászásra az a legjobb idő.
+– Nem verem fel István bácsit?
+– Bajosan, merthogy a falu végén találkoztam vele. Gyula Lajos sóhajtva bújt ki a paplan
+enyhéből, az ágy lágy öleléséből a hajnal friss, de kíméletlen légkörébe.
+Matula elcsoszogott az ablak alól, s amikor Gyula kiment, már a konyhában pipázott.
+– Annyit pakolt ez a Nancsi, hogy három kubikosnak elég lenne.
+– Nem hoztok ti abból haza egy darabot sem…
+– A temetőből nem szokás halottat hazavinni – elmélkedett az öreg –, de meg is
+haragudnál, hát inkább megesszük. Mehetünk.
+Elindulás előtt még egyszer megakadt a szeme a szép kis szandálokon, de nem szólt
+semmit.
+Keresztülvágtak a kerten, s a kert alatti gyalogúton ballagtak a rét felé. A fiú
+tulajdonképpen csak most kezdett felébredni. A rét és a mezők hűvös levegője mintha kimosta
+volna tüdejét, és megsimogatta arcát harmatos érintésével.
+Most kelt a nap.
+A lekaszált rétek tarlóján pókhálók ragyogtak, amelyeket nappal sosem lehetett látni, és a
+nap vörös tányérja mintha megállt volna gondolkozni, hogy elszakadjon-e a föld peremétől.
+Tutajos az iskolára gondolt. Ha ezt a Bika látná, ezt a valódi kirándulást és Matulát,
+biztosan nem merne többé szemtelenkedni, hogy: “Tágulj, te lángálló, mert összemorzsollak!”
+– Hova mennek a varjak, Matula bácsi?
+– Fene jobban tudja. Lehet, hogy a tocsogókba, kis halat fogni, de lehet az is, hogy dögöt
+tudnak valahol… ámbár, ha sok a szöcske, arra is rá járnak. Ezek szürkék, azaz kálomisták…
+– Mik?
+– Kálomisták, merthogy húst esznek, szóval nem böjtölnek, mint a pápisták, a feketék.
+Azok majd csak a télen lesznek itt.
+Matula megállt.
+– Ha pedig többet akar tudni ezekről a madarakról, kérje el otthon azt a könyvet, amit az a
+Lovassy nevű tanár úr írt. Az tud mindent. Nem nehéz a hátizsák?
+– Nem. Lovassy?
+– Úgy vélekszem. De menjünk, mert gyünnek már szúnyogék.
+Igen, amint megálltak, a szúnyogok erősen érdeklődtek Gyula füle iránt, pedig úgy tudta,
+hogy a szúnyogok csak estefelé csípnek.
+– Meg reggel… meg nappal is a bokrok között – mondta Matula, és hátra sem fordult –,
+csak esőben meg szélben tűnnek el.
+– Hova?
+– Mindenféle odúba, lyukba, levelek alá. Majd a Tüskevárban megláthatja. Annyi van ott,
+hogy ha az ember megrúg egy bokrot, hát a fele elrepül.
+– Matula bácsi, Van ott valami vár?
+– Csak volt, ámbár talán tüskéből volt, mert követ nemigen lehet ott találni. Az öregapám
+mondta, hogy legénykorában még látszottak valami maradék falak, de aztán elnyelte a föld
+azokat is. Hó meg fagy mállasztotta, iszalag befonta, bokrok nőttek rajta. Volt, nincs.
+– Ásni kellene.
+– Azt lehetne, akinek van kedve hozzá, ámbár, hogy megennék a szúnyogok, az biztos.
+Meleg lesz mama – nézett az égre Matula –, de majd délre behúzódunk a gúny hóba.
+– Van?
+– Ha mondom…
+Gyula ebből megértette, hogy ez a kérdés haszontalanul felesleges volt. Ha Matula azt
+mondja, hogy “behúzódunk a gunyhóba”, akkor nyilván van is gunyhó.
+– Nagy kunyhó?
+– Amekkora kell. Majd meglátja.
+A gyalogút most már tétován kanyargott a zsombék között, s itt-ott kis tócsák ragyogtak,
+mint szétszórt nagy tükördarabok. A sás némelyütt lehajlott a gyalogúira, és kellemetlenül
+súrolta Tutajos érzékeny bőrét. A sás – ámbár ezt nem várta volna tőle – karcolt, sőt vágott, és
+lábszára rövid idő múlva szépen vonalazott kottapapírhoz hasonlított, szép piros vonalzással.
+Gyula nem szólt, de a gumicsizmára gondolt.
+– A nádlevél jobban vág – nézett Matula egy pillanatra Gyula lábaira –, mint a beretva. És
+nehezen is gyógyul…
+Gyula erre sem válaszolt.
+“Miért beretva? – gondolta. – Apám is borotvát mond, István bátyám is, mindenesetre
+megnézem az akadémiai helyesírási szótárban. Ámbár – legyintett Tutajos – arra sem lehet
+sokat adni…”
+Ez a lesújtó vélemény akkor vert gyökeret Gyulában, amikor a kolbászt kereste a jeles
+műben, és – nem találta. Sem mint kolbász, sem mint kalbász. Nagy csalódás volt ez, amiben
+van is valamelyes igazság, mert ha a juhsajt benne van, sőt a katasztrófapolitika is, akkor a
+kolbásznak igazán vastag betűs, előkelő megjelenést kellett volna biztosítani.
+– Hogy a fene… – mondja ifjú barátunk, de ez nem a kolbászellenes, szótárgyártó
+akadémikusnak szólt, hanem annak a pocsétának, amelybe elgondolkozva belelépett. Az új
+szandál már a harmatot sem nagyon szerette, de a sárból olyan elgyalázottan került ki, mintha
+a szemétdombon találták volna.
+Vombat született a Fővárosi Állat- és Növénykertben - tájékoztatta az intézmény szombaton az MTI-t. A közlemény szerint a nőstény vombat, Molly erszényében növekvő apróság tavaly ősszel születhetett, de eddig csak éjjellátó kamerával sikerült megfigyelni.
+A kicsi már a negyedik Budapesten született vombatkölyök, ami kimagasló szakmai eredménynek számít, hiszen az európai állatkertek közül eddig csak hét intézményben születtek ilyen éjszakai erszényesek, bő száz év alatt összesen tizenhat egyed.
+A kölyök korát az állatkerti szakemberek nagyjából félévesre becsülik. Ennél a fajnál vemhességi idő nagyjából egy hónap, vagyis elég rövid, ahogy az erszényeseknél általában. Az aprócska újszülött szinte embriószerűen fejletlen, megszületése után fejlődése hónapokig a biztonságot nyújtó erszényben folytatódik. Közben kinő a szőre, kinyílik a szeme, és általában hathónapos korára, de mindenképpen az ötödik hónap eltelte után végre ki is néz az erszényből, majd újabb hetek telnek el, amíg néhány lépés erejéig kimerészkedik onnan.
+Azt még nem tudni, hogy az állatkerti tenyészpár, Molly és Wally negyedik kölyke milyen nemű, így egyelőre nevet sem kapott.
+A közlemény szerint az Ausztráliában őshonos erszényesek rendkívül ritkán láthatók állatkertekben: hazájukon kívül csak tizennyolc ilyen intézményben tartanak vombatokat.
