@@ -12,64 +12,59 @@ public class Sample {
         Path hungarian = Paths.get(hun);
         Path english = Paths.get(en);
 
-        List<String> hunList = readHungarianText(hungarian);
-        List<String> engList = readEnglishText(english);
+        System.out.println("Írj be egy összetett mondatot, és megmondom, hogy angolul vagy magyarul van :)");
+        Scanner scanner = new Scanner(System.in);
+        String sentence = scanner.next();
 
-        List<String> clearedHun = clearText(hunList);
-        List<String> clearedEn = clearText(engList);
-        List<String> hungarianNgrams = createNGrams(clearedHun);
-        List<String> englishNgrams = createNGrams(clearedEn);
-        getMostCommonNGrams(hungarianNgrams);
+
+
+        String hungarianText = readTextFromFile(hungarian);
+        String engList = readTextFromFile(english);
+
+        String clearedHun = clearText(hungarianText);
+        String clearedEn = clearText(engList);
+        List<String> hungarianNGrams = createNGrams(clearedHun);
+        List<String> englishNGrams = createNGrams(clearedEn);
+        List<String> mostCommonNGramsHun = getMostCommonNGrams(hungarianNGrams);
+        List<String> mostCommonNGramsEng = getMostCommonNGrams(englishNGrams);
+
 
     }
-    public static List<String> readHungarianText(Path hungarian){
-        List<String> allHun = new ArrayList<>();
+    public static String readTextFromFile(Path text){
+        List<String> textList = new ArrayList<>();
         try {
-            allHun = Files.readAllLines(hungarian);
+            textList = Files.readAllLines(text);
         } catch (IOException e) {
             e.printStackTrace();
         }
-        return allHun;
-    }
-
-    public static List<String> readEnglishText(Path english) {
-        List<String> allEng = new ArrayList<>();
-
-        try {
-            allEng = Files.readAllLines(english);
-        } catch (IOException e) {
-            e.printStackTrace();
+        StringBuilder textAsString = new StringBuilder();
+        for (String s:textList) {
+            textAsString.append(s);
+            textAsString.append(" ");
         }
-        return allEng;
+        return textAsString.toString();
     }
 
-    public static List<String> clearText(List<String> inputText) {
-        List<String> clearedText = new ArrayList();
+    public static String clearText(String inputText) {
+        String clearedString = inputText.trim().replaceAll("\\s{2,}", " ").toLowerCase();
+        clearedString = clearedString.replaceAll("[^A-Za-z öüóőúéáűí]","");
 
-        for (int i = 0; i <inputText.size() ; i++) {
-            String clearedString = inputText.get(i).replaceAll("[^A-Za-z öüóőúéáűí]","");
-            clearedString = clearedString.trim().replaceAll("\\s{2,}", " ").toLowerCase();
-            clearedText.add(clearedString);
-        }
-        //System.out.println(clearedText);
-        return clearedText;
+        //System.out.println(clearedString);
+        return clearedString;
     }
-    public static List<String> createNGrams(List<String> inputText){
+
+    public static List<String> createNGrams(String inputText){
         List<String> nGramList = new ArrayList<>();
-        StringBuilder inputString = new StringBuilder();
-        for (String s:inputText) {
-            inputString.append(s);
-            inputString.append(" ");
-        }
+
         //System.out.println(inputString);
 
         StringBuilder nGram = new StringBuilder();
 
-        char[] chars = new char[inputString.length()];
-        chars = inputString.toString().toCharArray();
+        char[] chars = new char[inputText.length()];
+        chars = inputText.toCharArray();
         int n = 3;
         int b = 0;
-        while (n != inputString.length()) {
+        while (n != inputText.length()) {
             for (int j = b; j < n ; j++) {
                 nGram.append(chars[j]);
             }
@@ -78,11 +73,11 @@ public class Sample {
             n++;
             b++;
         }
-        //System.out.println(nGramList);
+        System.out.println(nGramList);
         return nGramList;
     }
 
-    public static void getMostCommonNGrams(List<String> nGramList) {
+    public static List<String> getMostCommonNGrams(List<String> nGramList) {
         HashMap<String,Integer> map = new HashMap<>();
 
         for (int i = 0; i <nGramList.size() ; i++) {
@@ -99,10 +94,10 @@ public class Sample {
         Collections.sort(numberDB);
         List<Integer> theHundredBiggest = new ArrayList<>();
 
-        for (int i = numberDB.size()-5; i <numberDB.size() ; i++) { //100
+        for (int i = numberDB.size()-20; i <numberDB.size() ; i++) { //100
             theHundredBiggest.add(numberDB.get(i));
         }
-        System.out.println(map);
+        //System.out.println(map);
 
         for (Map.Entry<String, Integer> db : map.entrySet()) {
             for (Integer biggest: theHundredBiggest) {
@@ -112,6 +107,7 @@ public class Sample {
             }
         }
 
-        System.out.println(maxHundred);
+        //System.out.println(maxHundred);
+        return maxHundred;
     }
 }
