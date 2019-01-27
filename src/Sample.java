@@ -12,25 +12,23 @@ public class Sample {
         Path hungarian = Paths.get(hun);
         Path english = Paths.get(en);
 
-        System.out.println("Írj be egy összetett mondatot, és megmondom, hogy angolul vagy magyarul van :)");
+        System.out.println("Írj be egy mondatot, és megmondom, hogy angolul vagy magyarul van-e :) Write a sentence!");
         Scanner scanner = new Scanner(System.in);
         String sentence = scanner.nextLine();
         String clearedInput = clearText(sentence);
         List<String> inputNGrams = createNGrams(clearedInput);
 
-        System.out.println(inputNGrams);
-
         String hungarianText = readTextFromFile(hungarian);
-        String engList = readTextFromFile(english);
+        String englishText = readTextFromFile(english);
 
         String clearedHun = clearText(hungarianText);
-        String clearedEn = clearText(engList);
+        String clearedEn = clearText(englishText);
         List<String> hungarianNGrams = createNGrams(clearedHun);
         List<String> englishNGrams = createNGrams(clearedEn);
         List<String> mostCommonNGramsHun = getMostCommonNGrams(hungarianNGrams);
         List<String> mostCommonNGramsEng = getMostCommonNGrams(englishNGrams);
 
-        compareInputWithNGrams(inputNGrams,mostCommonNGramsHun, mostCommonNGramsEng);
+        compareInputWithNGrams(inputNGrams, mostCommonNGramsHun, mostCommonNGramsEng);
     }
 
     public static String readTextFromFile(Path text){
@@ -51,19 +49,15 @@ public class Sample {
     public static String clearText(String inputText) {
         String clearedString = inputText.trim().replaceAll("\\s{2,}", " ").toLowerCase();
         clearedString = clearedString.replaceAll("[^A-Za-z öüóőúéáűí]","");
-        clearedString = clearedString.replaceAll("[\\n]","");
+        clearedString = clearedString.replaceAll("[\\n]"," ");
         return clearedString;
     }
 
     public static List<String> createNGrams(String inputText){
         List<String> nGramList = new ArrayList<>();
-
-        //System.out.println(inputString);
-
         StringBuilder nGram = new StringBuilder();
+        char[] chars = inputText.toCharArray();
 
-        char[] chars = new char[inputText.length()];
-        chars = inputText.toCharArray();
         int n = 3;
         int b = 0;
         while (n != inputText.length()) {
@@ -75,50 +69,44 @@ public class Sample {
             n++;
             b++;
         }
-        //System.out.println(nGramList);
         return nGramList;
     }
 
     public static List<String> getMostCommonNGrams(List<String> nGramList) {
         HashMap<String,Integer> map = new HashMap<>();
 
-        for (int i = 0; i <nGramList.size() ; i++) {
-            if( ! map.containsKey(nGramList.get(i))){
+        for (int i = 0; i < nGramList.size(); i++) {
+            if (!map.containsKey(nGramList.get(i))) {
                 map.put(nGramList.get(i),1);
             } else {
                 map.put(nGramList.get(i), map.get(nGramList.get(i)) + 1);
             }
         }
 
-
         List<Integer> numberDB = new ArrayList<>(map.values());
-        List<String> maxHundred = new ArrayList<>();
-        Collections.sort(numberDB);
+        List<String> hundredNGrams = new ArrayList<>();
+        Collections.sort(numberDB,Collections.reverseOrder());
         List<Integer> theHundredBiggest = new ArrayList<>();
 
-        for (int i = numberDB.size()-100; i <numberDB.size() ; i++) {
-            theHundredBiggest.add(numberDB.get(i));
+        for (int i = 0; i < 100 ; i++) {
+          theHundredBiggest.add(numberDB.get(i));
         }
-        //System.out.println(map);
 
-        for (Map.Entry<String, Integer> db : map.entrySet()) {
-            for (Integer biggest: theHundredBiggest) {
-                if (db.getValue() == biggest) {
-                    maxHundred.add(db.getKey());
-                }
+        for (Map.Entry<String, Integer > db : map.entrySet()) {
+            if (theHundredBiggest.contains(db.getValue()) &&  hundredNGrams.size()<100) {
+                hundredNGrams.add(db.getKey());
             }
         }
 
-        //System.out.println(maxHundred);
-        return maxHundred;
+        return hundredNGrams;
     }
 
     private static void compareInputWithNGrams(List<String> inputNGrams, List<String> hungarian, List<String> english) {
         int countNGramsHun = 0;
         int countNGramsEng = 0;
 
-        for (int i = 0; i <inputNGrams.size() ; i++) {
-            for (int j = 0; j <hungarian.size() ; j++) {
+        for (int i = 0; i < inputNGrams.size(); i++) {
+            for (int j = 0; j < 100; j++) {
                 if (inputNGrams.get(i).equals(hungarian.get(j))) {
                     countNGramsHun++;
                 } else if (inputNGrams.get(i).equals(english.get(j))) {
@@ -134,5 +122,4 @@ public class Sample {
             System.out.println("Nem tudom eldönteni, I cannot decide");
         }
     }
-
 }
