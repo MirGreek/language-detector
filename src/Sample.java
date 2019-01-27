@@ -12,7 +12,7 @@ public class Sample {
         Path hungarian = Paths.get(hun);
         Path english = Paths.get(en);
 
-        System.out.println("Írj be egy mondatot, és megmondom, hogy angolul vagy magyarul van-e :) Write a sentence!");
+        System.out.println("Írj be egy mondatot, és megmondom, hogy angolul vagy magyarul van-e :) Write a sentence, please!");
         Scanner scanner = new Scanner(System.in);
         String sentence = scanner.nextLine();
         String clearedInput = clearText(sentence);
@@ -39,7 +39,7 @@ public class Sample {
             e.printStackTrace();
         }
         StringBuilder textAsString = new StringBuilder();
-        for (String s:textList) {
+        for (String s : textList) {
             textAsString.append(s);
             textAsString.append(" ");
         }
@@ -61,7 +61,7 @@ public class Sample {
         int n = 3;
         int b = 0;
         while (n != inputText.length()) {
-            for (int j = b; j < n ; j++) {
+            for (int j = b; j < n; j++) {
                 nGram.append(chars[j]);
             }
             nGramList.add(nGram.toString());
@@ -86,14 +86,14 @@ public class Sample {
         List<Integer> numberDB = new ArrayList<>(map.values());
         List<String> hundredNGrams = new ArrayList<>();
         Collections.sort(numberDB,Collections.reverseOrder());
-        List<Integer> theHundredBiggest = new ArrayList<>();
+        List<Integer> biggestNumbersOfNGrams = new ArrayList<>();
 
         for (int i = 0; i < 100 ; i++) {
-          theHundredBiggest.add(numberDB.get(i));
+          biggestNumbersOfNGrams.add(numberDB.get(i));
         }
 
-        for (Map.Entry<String, Integer > db : map.entrySet()) {
-            if (theHundredBiggest.contains(db.getValue()) &&  hundredNGrams.size()<100) {
+        for (Map.Entry<String, Integer> db : map.entrySet()) {
+            if (biggestNumbersOfNGrams.contains(db.getValue()) &&  hundredNGrams.size() < 100) {
                 hundredNGrams.add(db.getKey());
             }
         }
@@ -119,7 +119,7 @@ public class Sample {
         } else if (countNGramsHun < countNGramsEng) {
             System.out.println("This is in english");
         } else {
-            System.out.println("Nem tudom eldönteni, I cannot decide");
+            System.out.println("Nem tudom eldönteni, túl rövid a szöveg! I cannot decide!");
         }
     }
 }
